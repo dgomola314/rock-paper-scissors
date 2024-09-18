@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-Rock Paper Scissors is simple game you can play with your best friends or in this case, against against the almighty computer. You play five rounds against computer and the winner is one who has higher score or the final score can be even.
+Rock Paper Scissors is simple game you can play with your best friends or in this case, against the almighty computer. You play five rounds against computer and the winner is one who has higher score or the final score can be even.
 
 If you don't know the rules of this game, check this guide:
 https://www.wikihow.com/Play-Rock,-Paper,-Scissors
